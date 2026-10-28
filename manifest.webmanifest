@@ -1,0 +1,9 @@
+{
+  "name": "SiteWatch 自作サイト管理",
+  "short_name": "SiteWatch",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#edf3f8",
+  "theme_color": "#102a43",
+  "description": "自作サイトの状態、版、更新予定を管理するダッシュボード"
+}
